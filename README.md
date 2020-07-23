@@ -1,6 +1,6 @@
 # Hi, I'm daadaadaah 👋 (작성중)
 ### Interest
-
+- 회고
 
 
 ### 모음
