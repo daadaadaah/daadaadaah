@@ -5,7 +5,7 @@
 ## 👋 Introduction (작성중) 
 1. 제가 또는 주변 사람들이 느끼는 불편함을 해결할 수 있는 SW를 만드는 것을 좋아합니다.
 - Git commit 을 보관하는  Git Commit Pocket CLI([[npm] Git Commit Pocket](https://github.com/daadaadaah/commit-pocket))
-- 변수/함수명, commit  메시지 등을 영어로 작성을 도와주는한영/영한 번역 VSCode extension([k-translator](https://github.com/daadaadaah/k-translator))
+- 변수/함수명, commit  메시지 등을 영어로 작성을 도와주는한영/영한 번역 VSCode extension, [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md)
 - 코딩 테스트 연습과 TIL 작성을 손쉽게 도와주는 VSCode extension([[VScode Extension] junior-dev-kit](https://github.com/daadaadaah/junior-dev-kit))
 
 
