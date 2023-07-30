@@ -22,6 +22,20 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
 
+## 😎 Open Source
+### Git-history
+- [변경된 코드라인을 좀더 시각화하기 위한 마킹 UX 추가 제안 PR](https://github.com/pomber/git-history/pull/178)
+
+### React 공식 홈페이지
+- [Relay 버전 업데이트에 따른 URL 수정 PR](https://github.com/reactjs/reactjs.org/commit/dab7441b1eb0098823de7b075473dbd15c437723)
+
+### [dooboolab] Hacktalk(Server)
+- [채팅 메시지에 대한 Reaction을 위한 GraphQL Model, Schema and Resolver 구현 PR](https://github.com/dooboolab/hackatalk-server/pull/76)
+- [CONTRIBUTING 가이드 라인에 잘못 기재된 PostgreSQL 명령어 수정 PR](https://github.com/dooboolab/hackatalk/pull/166)
+- [nexus에 의해 generate된 파일들을 1곳에서 관리했으면 하는 제안 PR](https://github.com/dooboolab/hackatalk/pull/171)
+- [서버쪽 프로젝트 전체구조를 한눈에 파악할 수 있도록 도식화한 Diagram 추가 PR](https://github.com/dooboolab/hackatalk/pull/285)
+
+
 ## 📨 Contact
 
 - 📧 **Email**: daadaadaah@gmail.com
