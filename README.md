@@ -3,6 +3,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaadaadaah%2Fhit-counter&count_bg=%23FF9400&title_bg=%23212349&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 👋 Introduction (작성중) 
+> 사람들이 공감할 수 있는 SW를 만들고 싶은 개발자, daadaadaah
+> 
+> 제가 만든 SW가 누군가에게 불편함을 덜어주거나 즐거움을 더해주었으면 좋겠습니다. 
+
 1. 제가 또는 주변 사람들이 느끼는 불편함을 해결할 수 있는 SW를 만드는 것을 좋아합니다.
 - Git commit 을 보관하는  Git Commit Pocket CLI([[npm] Git Commit Pocket](https://github.com/daadaadaah/commit-pocket))
 - 변수/함수명, commit  메시지 등을 영어로 작성을 도와주는한영/영한 번역 VSCode extension, [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md)
