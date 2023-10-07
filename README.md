@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaadaadaah%2Fhit-counter&count_bg=%23FF9400&title_bg=%23212349&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 👋 Introduction (작성중) 
-> 기술보다 문제에 집중하여 사람들이 공감하는 SW를 만들고 싶은 개발자, daadaadaah
+> 기술보다 문제에 집중하여 사람들이 공감하는 SW를 만들고 싶은 SW Engineer, daadaadaah
 > 
 > 제가 만든 SW가 누군가에게 불편함을 덜어주거나 즐거움을 더해주었으면 좋겠습니다. 
 
@@ -12,6 +12,11 @@
 - 변수/함수명, commit  메시지 등을 영어로 작성을 도와주는한영/영한 번역 VSCode extension, [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md)
 - 코딩 테스트 연습과 TIL 작성을 손쉽게 도와주는 VSCode extension, [junior-dev-kit](https://github.com/daadaadaah/daadaadaah/blob/master/junior_dev_kit.md)
 
+## 🏃‍♀️ learning
+- [my-java](https://github.com/daadaadaah/my-java)
+- [my-spring](https://github.com/daadaadaah/my-spring)
+- [my-jpa](https://github.com/daadaadaah/my-jpa)
+- [my-db](https://github.com/daadaadaah/my-db)
 
 
 ## 🔨 Skills
