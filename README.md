@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaadaadaah%2Fhit-counter&count_bg=%23FF9400&title_bg=%23212349&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 👋 Introduction (작성중) 
-> 기술보다 문제에 집중하여 사람들이 공감하는 SW를 만들고 싶은 SW Engineer, daadaadaah
+> 비즈니스의 대내외적 문제를 기술, 아이디어, 소통으로 해결하는 것을 좋아하는 SW Engineer, daadaadaah
 > 
 > 제가 만든 SW가 누군가에게 불편함을 덜어주거나 즐거움을 더해주었으면 좋겠습니다. 
 
