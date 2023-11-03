@@ -7,10 +7,22 @@
 > 
 > 제가 만든 SW가 누군가에게 불편함을 덜어주거나 즐거움을 더해주었으면 좋겠습니다. 
 
-1. 제가 또는 주변 사람들이 느끼는 불편함을 해결할 수 있는 SW를 만드는 것을 좋아합니다.
-- Git commit 을 보관하는  Git Commit Pocket CLI([[npm] Git Commit Pocket](https://github.com/daadaadaah/commit-pocket))
-- 변수/함수명, commit  메시지 등을 영어로 작성을 도와주는한영/영한 번역 VSCode extension, [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md)
-- 코딩 테스트 연습과 TIL 작성을 손쉽게 도와주는 VSCode extension, [junior-dev-kit](https://github.com/daadaadaah/daadaadaah/blob/master/junior_dev_kit.md)
+### 1. 번거로운 작업을 SW로 효율화시키는 것을 좋아합니다. 
+#### 번거로운 작업을 해결 하기 위해 만든  SW 1 :  [Git Commit Pocket](https://github.com/daadaadaah/commit-pocket)
+- 평소  Git 명령어(rebase, cherry-pick 등)을 사용할 때, 필요한 commit을 따로 메모장 등에 복사해놓아야 하는 불편함을 해결하기 위해 만든 SW
+- #JS #npm #NodeJS(fs, child_process) #inquirer #commander #git 
+- 기간 : 2021년 7월 27일 - 2021년 7월 27일
+#### 번거로운 작업을 해결하기 위해 만든 SW 2  : [Junior-dev-kit](https://github.com/daadaadaah/daadaadaah/blob/master/junior_dev_kit.md)
+- 이태원 코딩 도장에서 코딩 테스트 연습했을 때마다 코딩 테스트 사이트를 들어가야 하는 불편함을 해결하기 위해 만든 SW
+- #JS #VSCode Extension #NodeJS(fs)
+- 기간 : 2021년 01월 24일 - 2021년 01월 29일
+
+#### 번거로운 작업을 해결하기 위해 만든 SW 3 : [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md)
+- 개발시 변수명, git commit 메시지 작성을 위해 추가로 번역용 브라우저를 띄어야 하는 불편한 문제를 해결하기 위해 만든 SW
+- #TS #VSCode Extension #Google Translate API #Naver Papago API 
+- 기간 : 2020년 12월 08일  - 2020년 12월 24일
+
+
 
 ## 🏃‍♀️ learning
 - [my-java](https://github.com/daadaadaah/my-java)
