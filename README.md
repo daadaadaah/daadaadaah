@@ -12,7 +12,8 @@
 > 취미 : 📚[독서](https://hey-just-write-it.tistory.com/category/%EB%82%B4%EA%B0%80%20%EC%9D%BD%EC%96%B4%EB%B3%B8%20000), 🏋️헬스(헬린이), ⚽️풋살(플랩 레벨 : 아마추어 1✌️)
 
 ### 1. 번거로운 작업을 SW로 효율화시키는 것을 좋아합니다.
-#### 번거로운 작업을 해결 하기 위해 만든  SW 1 : [review-study-scheduler] -> 코드리뷰 스터디 주간 회고 Issue 관리 배치 프로그램
+#### 번거로운 작업을 해결 하기 위해 만든  SW 1 : [review-study-app](https://github.com/daadaadaah/review-study-app)
+- 코드리뷰 스터디 주간 회고 Issue 관리 배치 프로그램
 - 주간 회고 Issue를 매주 Close하고 생성하는 번거로움을 해결하기 위해 만듬
 
 
