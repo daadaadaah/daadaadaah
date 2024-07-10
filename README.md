@@ -14,7 +14,8 @@
 ### 1. 번거로운 작업을 SW로 효율화시키는 것을 좋아합니다.
 #### 번거로운 작업을 해결 하기 위해 만든  SW 1 : [review-study-app](https://github.com/daadaadaah/review-study-app)
 - [코드리뷰 스터디](https://github.com/daadaadaah/reviewStudy/issues)에서 주간 회고 Issue를 관리의 번거로움을 해결하기 위해, 자동 관리해주는 스프링 배치 서버
-기간 : 2024년 6월 ~
+- #Java #Spring Boot #Gihtub API
+- 기간 : 2024년 6월 ~
 
 
 #### 번거로운 작업을 해결 하기 위해 만든  SW 2 : [codesoom-github-manage-bot](https://github.com/daadaadaah/codesoom-github-manage-bot)
