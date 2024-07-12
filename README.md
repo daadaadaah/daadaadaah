@@ -19,9 +19,7 @@
 
 
 #### 번거로운 작업을 해결 하기 위해 만든  SW 2 : [codesoom-github-manage-bot](https://github.com/daadaadaah/codesoom-github-manage-bot)
-- 매주 올라오는 수강생 과제 PR을 하나하나 Merge하는 번거로움을 해결하기 위해, 과제 PR을 일괄 Merge시키는 디스코드 봇
-- #JS #Gihtub API #discord.js
-- 기간 : 2022년 8월 8일 - 2022년 8월 12일
+- 매주 올라오는 수강생 과제 PR을 하나하나 Merge하는 번거로움을 해결하기 위해, 과제 PR을 일괄 Merge시키는 디스코드 봇 
 
 #### 번거로운 작업을 해결 하기 위해 만든  SW 3 :  [Git Commit Pocket](https://github.com/daadaadaah/commit-pocket)
 - 평소  Git 명령어(rebase, cherry-pick 등)을 사용할 때, 필요한 commit을 따로 메모장 등에 복사해놓아야 하는 불편함을 해결하기 위해 만든 SW
