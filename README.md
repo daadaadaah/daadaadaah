@@ -35,6 +35,10 @@
 - #TS #VSCode Extension #Google Translate API #Naver Papago API 
 - 기간 : 2020년 12월 08일  - 2020년 12월 24일
 
+### 2. 함께 자라기를 좋아합니다.
+
+
+### 3. 함께 자라기를 좋아합니다.
 
 
 ## 🏃‍♀️ learning
