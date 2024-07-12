@@ -13,10 +13,7 @@
 
 ### 1. 번거로운 작업을 SW로 효율화시키는 것을 좋아합니다.
 #### 번거로운 작업을 해결 하기 위해 만든  SW 1 : [review-study-app](https://github.com/daadaadaah/review-study-app)
-- [코드리뷰 스터디](https://github.com/daadaadaah/reviewStudy/issues)에서 주간 회고 Issue를 관리의 번거로움을 해결하기 위해, 자동 관리해주는 스프링 배치 서버
-- #Java #Spring Boot #Gihtub API
-- 기간 : 2024년 6월 ~
-
+- [주간회고 스터디](https://github.com/daadaadaah/reviewStudy/issues)에서 주간 회고 Issue를 관리의 번거로움을 해결하기 위해, 자동 관리해주는 스프링 배치 서버
 
 #### 번거로운 작업을 해결 하기 위해 만든  SW 2 : [codesoom-github-manage-bot](https://github.com/daadaadaah/codesoom-github-manage-bot)
 - 매주 올라오는 수강생 과제 PR을 하나하나 Merge하는 번거로움을 해결하기 위해, 과제 PR을 일괄 Merge시키는 디스코드 봇 
@@ -25,6 +22,7 @@
 - 평소  Git 명령어(rebase, cherry-pick 등)을 사용할 때, 필요한 commit을 따로 메모장 등에 복사해놓아야 하는 불편함을 해결하기 위해 만든 SW
 - #JS #npm #NodeJS(fs, child_process) #inquirer #commander #git 
 - 기간 : 2021년 7월 27일 - 2021년 7월 27일
+
 #### 번거로운 작업을 해결하기 위해 만든 SW 4  : [Junior-dev-kit](https://github.com/daadaadaah/daadaadaah/blob/master/junior_dev_kit.md)
 - 이태원 코딩 도장에서 코딩 테스트 연습했을 때마다 코딩 테스트 사이트를 들어가야 하는 불편함을 해결하기 위해 만든 SW
 - #JS #VSCode Extension #NodeJS(fs)
