@@ -13,8 +13,8 @@
 #### 번거로운 작업을 해결 하기 위해 만든  SW 1 : [review-study-app](https://github.com/daadaadaah/review-study-app)
 - [주간회고 스터디](https://github.com/daadaadaah/reviewStudy/issues)에서 주간 회고 Issue를 관리의 번거로움을 해결하기 위해, 자동 관리해주는 스프링 배치 서버로, 기존 방식 대비 최대 약 n배의 작업 효율을 향상시킴
 
-#### 번거로운 작업을 해결 하기 위해 만든  SW 2 : [codesoom-github-manage-bot](https://github.com/daadaadaah/codesoom-github-manage-bot)
-- 매주 올라오는 수강생 과제 PR을 하나하나 Merge하는 번거로움을 해결하기 위해, 과제 PR을 일괄 Merge시키는 Discord Bot으로, 기존 방식 대비 최대 약 13배의 작업 효율을 향상시킴
+#### 번거로운 작업을 해결 하기 위해 만든  SW 2 : 최대 약 13배의 작업 효율을 향상시킨 [codesoom-github-manage-bot](https://github.com/daadaadaah/codesoom-github-manage-bot)
+- 매주 올라오는 수강생 과제 PR을 하나하나 Merge하는 번거로움을 해결하기 위해, 과제 PR을 일괄 Merge시키는 Discord Bot
 
 #### 번거로운 작업을 해결 하기 위해 만든  SW 3 :  [Git Commit Pocket](https://github.com/daadaadaah/daadaadaah/blob/master/git_commit_pocket.md)
 - 평소  Git 명령어(rebase, cherry-pick 등)을 사용할 때, 필요한 commit을 따로 메모장 등에 복사해놓아야 하는 불편함을 해결하기 위해 만든 cli npm 모듈
