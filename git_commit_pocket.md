@@ -1,6 +1,7 @@
 # 🎁 Git Commit Pocket 🎁
 ## 🙇‍♀️ 소개
 - git commit을 보관할 수 있는 npm 모듈
+<img width="400" alt="commit-pocket 메뉴" src="https://user-images.githubusercontent.com/60481383/127042190-a095a184-f8cb-4393-8fd1-4dc7278d0752.png">
 
 ## 👩‍💻 사용 기술
 - JS, npm, NodeJS(fs, child_process), inquirer #commander, git
