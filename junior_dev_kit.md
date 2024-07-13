@@ -10,7 +10,7 @@
 - JS, VSCode Extension, NodeJS(fs)
 
 ## 🗓️ 기간
-- 2021년 01월 24일 ~ 2021년 01월 24일 
+- 2021년 01월 24일 ~ 2021년 01월 29일 
 
 ## 🎁 다운로드 링크
 - https://marketplace.visualstudio.com/items?itemName=daadaadaah.junior-dev-kit
