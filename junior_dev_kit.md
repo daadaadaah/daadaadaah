@@ -43,6 +43,6 @@
 
 ## 💪 직면했던 문제
 ### 1. 어떻게 코딩테스트 문제를 수집할 것인가?
-- selunium 으로 프로그래머스 사이트 웹 크롤링([Github](https://github.com/daadaadaah/programmers-web-scraper))을 통해 문제를 수집함.
+- selunium 으로 프로그래머스 사이트 웹 크롤링을 제작하여([Github](https://github.com/daadaadaah/programmers-web-scraper)) 문제를 수집함.
 
 
