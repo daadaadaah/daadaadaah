@@ -24,12 +24,9 @@
 
 #### 번거로운 작업을 해결하기 위해 만든 SW 5 : [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md)
 - 개발시 변수명, git commit 메시지 작성을 위해 추가로 번역용 브라우저를 띄어야 하는 불편한 문제를 해결하기 위해 만든 SW
-- #TS #VSCode Extension #Google Translate API #Naver Papago API 
-- 기간 : 2020년 12월 08일  - 2020년 12월 24일
 
 ### 2. 함께 자라기를 좋아합니다.
 - 혼자 성장하기 보다 함께 성장하기를 좋아해서, 평소에 👬[스터디](https://github.com/daadaadaah/my-study)에 참여하거나 직접 모집하기도 합니다.
-
 
 ## 🏃‍♀️ learning
 - [java](https://github.com/daadaadaah/my-java), [spring](https://github.com/daadaadaah/my-spring), [jpa](https://github.com/daadaadaah/my-jpa), [db](https://github.com/daadaadaah/my-db), [ddd](https://github.com/daadaadaah/my-ddd)
