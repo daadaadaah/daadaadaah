@@ -7,14 +7,17 @@
   1. 개발할 때, 변수명, 함수명 또는 Git commit 메시지를 영어로 작성하게 되는데, 이를 위해 매번 변역용 브라우저를 추가로 띄워야 하는 불편함이 있었습니다.
   2. 기존 한영/영한 번역 VSCode extension의 경우, 1개의 단어를 번역하고자 할 때, 번역된 단어를 1개만 보여주게 되는데, 이 결과가 때론 너무 어려운 단어이거나  문맥상 어울리지 않는 단어를 보여주게 되어, 브라우저를 다시 띄워야 하는 불편함이 있었습니다.
 
+## 👩‍💻 사용 기술
+- Typescript, VSCode Extension, Google Translate API, Naver Papago API 
+
+## 🗓️ 기간
+- 2020년 12월 08일 - 2020년 12월 24일
+  
 ## 🎁 다운로드 링크
 - https://marketplace.visualstudio.com/items?itemName=daadaadaah.k-translator
 
 ## 🎈 Github 주소
 - https://github.com/daadaadaah/k-translator
-
-## 🗓️ 기간
-- 2020년 12월 08일 - 2020년 12월 24일
 
 ## 🎯 주요 특징
 ### 특징 1. 사용자의 선택의 폭을 넓히고자 여러개의 번역 결과를 보여주도록 하였습니다. (Google 변역을 이용할 경우)
