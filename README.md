@@ -21,8 +21,6 @@
 
 #### 번거로운 작업을 해결하기 위해 만든 SW 4  : [Junior-dev-kit](https://github.com/daadaadaah/daadaadaah/blob/master/junior_dev_kit.md)
 - 이태원 코딩 도장에서 코딩 테스트 연습했을 때마다 코딩 테스트 사이트를 들어가야 하는 불편함을 해결하기 위해 만든 SW
-- #JS #VSCode Extension #NodeJS(fs)
-- 기간 : 2021년 01월 24일 - 2021년 01월 29일
 
 #### 번거로운 작업을 해결하기 위해 만든 SW 5 : [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md)
 - 개발시 변수명, git commit 메시지 작성을 위해 추가로 번역용 브라우저를 띄어야 하는 불편한 문제를 해결하기 위해 만든 SW
