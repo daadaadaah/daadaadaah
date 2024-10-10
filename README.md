@@ -16,9 +16,7 @@
 
 
 
-
 ### 2. 제 자신 뿐만 아니라 주변 사람들의 번거로운 작업을 해결해주는 SW를 만드는 것을 좋아합니다.
-> 다음은 관련 SW 목록입니다. 
 
 | Software | Duration | Description |
 |----------|-------------|-------------|
@@ -30,7 +28,7 @@
 
 
 ### 3. 함께 자라기를 좋아합니다.
-- 혼자 성장하기 보다 함께 성장하기를 좋아해서, 평소에 👬[스터디](https://github.com/daadaadaah/my-study)에 참여하거나 직접 모집하기도 합니다.
+- 혼자 보다 다른 사람들과 함께 했을 때 더 잘 성장하는 개발자입니다. 현재 개발자 [주간 회고 스터디](https://github.com/daadaadaah/reviewStudy/issues)에 참여하고 있으며, 개발자 독서/글쓰기 스터디를 운영하고 있습니다. (총 23회의 스터디 참여/운영 경험 : 관련 👬[스터디](https://github.com/daadaadaah/my-study) 목록)
 
 
 ## 🏃‍♀️ learning
