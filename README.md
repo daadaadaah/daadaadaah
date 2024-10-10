@@ -3,47 +3,35 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaadaadaah%2Fhit-counter&count_bg=%23FF9400&title_bg=%23212349&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 👋 Introduction (작성중) 
+
+
+
 > 비즈니스의 대내외적 문제를 기술, 아이디어, 소통으로 해결하는 것을 좋아하는 SW Engineer, daadaadaah
 > 
 > 제가 만든 SW가 누군가에게 불편함을 덜어주거나 즐거움을 더해주었으면 좋다는 마음으로 SW를 만듭니다.
 >
 > 취미 : 📚독서, 🏋️헬스(헬린이), ⚽️풋살(플랩 레벨 : 아마추어 1✌️)
 
-### 1. 번거로운 작업을 SW로 효율화시키는 것을 좋아합니다.
-#### 번거로운 작업을 해결 하기 위해 만든  SW 1 : [review-study-app](https://github.com/daadaadaah/review-study-app)
-- [주간회고 스터디](https://github.com/daadaadaah/reviewStudy/issues)용 주간 회고 이슈를 매주 자동으로 생성 및 관리하여 수작업 대비 3배(1인당 30초 -> 10초) 효율을 제공하는 스프링 스케줄러 서버
-
-#### 번거로운 작업을 해결 하기 위해 만든  SW 2 : 최대 약 13배의 작업 효율을 향상시킨 [codesoom-github-manage-bot](https://github.com/daadaadaah/codesoom-github-manage-bot)
-- 매주 올라오는 수강생 과제 PR을 하나하나 Merge하는 번거로움을 해결하기 위해, 과제 PR을 일괄 Merge시키는 Discord Bot
-
-#### 번거로운 작업을 해결 하기 위해 만든  SW 3 :  [Git Commit Pocket](https://github.com/daadaadaah/daadaadaah/blob/master/git_commit_pocket.md)
-- 평소  Git 명령어(rebase, cherry-pick 등)을 사용할 때, 필요한 commit을 따로 메모장 등에 복사해놓아야 하는 불편함을 해결하기 위해 만든 cli npm 모듈
-
-#### 번거로운 작업을 해결하기 위해 만든 SW 4  : [Junior-dev-kit](https://github.com/daadaadaah/daadaadaah/blob/master/junior_dev_kit.md)
-- 이태원 코딩 도장에서 코딩 테스트 연습했을 때마다 코딩 테스트 사이트를 들어가야 하는 불편함을 해결하기 위해 만든 SW
-
-#### 번거로운 작업을 해결하기 위해 만든 SW 5 : [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md)
-- 개발시 변수명, git commit 메시지 작성을 위해 추가로 번역용 브라우저를 띄어야 하는 불편한 문제를 해결하기 위해 만든 SW
+### 1. 비즈니스의 대내외적 문제를 기술, 아이디어, 소통으로 해결하는 것을 좋아합니다.
 
 
+
+
+### 2. 제 자신 뿐만 아니라 주변 사람들의 번거로운 작업을 해결해주는 SW를 만드는 것을 좋아합니다.
+> 다음은 관련 SW 목록입니다. 
 
 | Software | Duration | Description |
 |----------|-------------|-------------|
-| [review-study-app](https://github.com/daadaadaah/review-study-app) | 2024-06 ~ |주간회고 스터디용 주간 회고 이슈를 매주 자동으로 생성 및 관리하여 수작업 대비 3배(1인당 30초 -> 10초) 효율을 제공하는 스프링 스케줄러 서버 |
-| [codesoom-github-manage-bot](https://github.com/daadaadaah/codesoom-github-manage-bot) | | 매주 올라오는 수강생 과제 PR을 하나하나 Merge하는 번거로움을 해결하기 위해, 과제 PR을 일괄 Merge시키는 Discord Bot |
-| [Git Commit Pocket](https://github.com/daadaadaah/daadaadaah/blob/master/git_commit_pocket.md) | |평소 Git 명령어(rebase, cherry-pick 등)을 사용할 때, 필요한 commit을 따로 메모장 등에 복사해놓아야 하는 불편함을 해결하기 위해 만든 cli npm 모듈 |
-| [Junior-dev-kit](https://github.com/daadaadaah/daadaadaah/blob/master/junior_dev_kit.md) | | 이태원 코딩 도장에서 코딩 테스트 연습했을 때마다 코딩 테스트 사이트를 들어가야 하는 불편함을 해결하기 위해 만든 SW |
-| [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md) | | 개발시 변수명, git commit 메시지 작성을 위해 추가로 번역용 브라우저를 띄어야 하는 불편한 문제를 해결하기 위해 만든 SW |
+| [review-study-app](https://github.com/daadaadaah/review-study-app) | 2024-06 ~ |매주 모든 팀원이 주간 회고용 Github Issue를 관리 번거로움을 해결하기 위해 만든 자바 스프링 스케줄러 서버 |
+| [codesoom-github-manage-bot](https://github.com/daadaadaah/codesoom-github-manage-bot) | 2022-08 ~ 2022-08 | 매주 과제 PR을 수동으로 Merge하는 번거로움을 해결하기 위해 만든 PR 일괄 Merge Discord Bot |
+| [Git Commit Pocket](https://github.com/daadaadaah/daadaadaah/blob/master/git_commit_pocket.md) | 2021-07 ~ 2021-07 |평소 git commit 복붙해야하는 불편함을 해결하기 위해 만든 cli npm 모듈 |
+| [Junior-dev-kit](https://github.com/daadaadaah/daadaadaah/blob/master/junior_dev_kit.md) | 2021-01 ~ 2021-01 | 코딩 테스트 연습시 해당 사이트를 들어가야 하는 불편함을 해결하기 위해 만든 SW |
+| [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md) | 2020-12 ~ 2020-12 | 변수명, git commit 메시지 작성시 브라우저을 열어야 하는 번거로움을 해결하기 위해 만든 SW |
 
 
-
-
-
-
-
-
-### 2. 함께 자라기를 좋아합니다.
+### 3. 함께 자라기를 좋아합니다.
 - 혼자 성장하기 보다 함께 성장하기를 좋아해서, 평소에 👬[스터디](https://github.com/daadaadaah/my-study)에 참여하거나 직접 모집하기도 합니다.
+
 
 ## 🏃‍♀️ learning
 - [java](https://github.com/daadaadaah/my-java), [spring](https://github.com/daadaadaah/my-spring), [jpa](https://github.com/daadaadaah/my-jpa), [db](https://github.com/daadaadaah/my-db), [ddd](https://github.com/daadaadaah/my-ddd)
