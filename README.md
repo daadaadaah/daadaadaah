@@ -25,6 +25,23 @@
 #### 번거로운 작업을 해결하기 위해 만든 SW 5 : [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md)
 - 개발시 변수명, git commit 메시지 작성을 위해 추가로 번역용 브라우저를 띄어야 하는 불편한 문제를 해결하기 위해 만든 SW
 
+
+
+| Software | Description |
+|----------|-------------|
+| [review-study-app](https://github.com/daadaadaah/review-study-app) | 주간회고 스터디용 주간 회고 이슈를 매주 자동으로 생성 및 관리하여 수작업 대비 3배(1인당 30초 -> 10초) 효율을 제공하는 스프링 스케줄러 서버 |
+| [codesoom-github-manage-bot](https://github.com/daadaadaah/codesoom-github-manage-bot) | 매주 올라오는 수강생 과제 PR을 하나하나 Merge하는 번거로움을 해결하기 위해, 과제 PR을 일괄 Merge시키는 Discord Bot |
+| [Git Commit Pocket](https://github.com/daadaadaah/daadaadaah/blob/master/git_commit_pocket.md) | 평소 Git 명령어(rebase, cherry-pick 등)을 사용할 때, 필요한 commit을 따로 메모장 등에 복사해놓아야 하는 불편함을 해결하기 위해 만든 cli npm 모듈 |
+| [Junior-dev-kit](https://github.com/daadaadaah/daadaadaah/blob/master/junior_dev_kit.md) | 이태원 코딩 도장에서 코딩 테스트 연습했을 때마다 코딩 테스트 사이트를 들어가야 하는 불편함을 해결하기 위해 만든 SW |
+| [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md) | 개발시 변수명, git commit 메시지 작성을 위해 추가로 번역용 브라우저를 띄어야 하는 불편한 문제를 해결하기 위해 만든 SW |
+
+
+
+
+
+
+
+
 ### 2. 함께 자라기를 좋아합니다.
 - 혼자 성장하기 보다 함께 성장하기를 좋아해서, 평소에 👬[스터디](https://github.com/daadaadaah/my-study)에 참여하거나 직접 모집하기도 합니다.
 
