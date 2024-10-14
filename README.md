@@ -3,18 +3,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaadaadaah%2Fhit-counter&count_bg=%23FF9400&title_bg=%23212349&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 👋 Introduction (작성중) 
-
-
-
-> 비즈니스의 대내외적 문제를 기술, 아이디어, 소통으로 해결하는 것을 좋아하는 SW Engineer, daadaadaah
+> 미래의 제 자신과 주변 사람들을 위해 SW로 더 나은 세상을 만들고 싶은 SW Engineer, daadaadaah
 > 
 > 제가 만든 SW가 누군가에게 불편함을 덜어주거나 즐거움을 더해주었으면 좋다는 마음으로 SW를 만듭니다.
 >
 > 취미 : 📚독서, 🏋️헬스(헬린이), ⚽️풋살(플랩 레벨 : 아마추어 1✌️)
 
 ### 1. 비즈니스의 대내외적 문제를 기술, 아이디어, 소통으로 해결하는 것을 좋아합니다.
-
-
+- 동료의 번거로운 업무를 대신할 웹 사이트를 만들어 일정을 14배(14일 -> 1일) 단축 시킨 경험이 있습니다.
+- 기획적 아이디어로 DB의 데이터 약 284배 감축(약 1억 7600만개 -> 약 62만개)시킨 경험험이 있습니다.
+- 복합 유니크키로 중복 데이터 저장 문제 해결 및 쿼리 성능 약750배 향상(최대 1.5초 -> 0.002초)시킨 경험이 있습니다.
 
 ### 2. 제 자신 뿐만 아니라 주변 사람들의 번거로운 작업을 해결해주는 SW를 만드는 것을 좋아합니다.
 
