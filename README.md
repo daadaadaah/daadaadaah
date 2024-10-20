@@ -19,8 +19,8 @@
 | Software | Duration | Description |
 |----------|-------------|-------------|
 | [review-study-app](https://github.com/daadaadaah/review-study-app) | 2024-06 ~ |(Java) 매주 모든 팀원이 주간 회고용 Github Issue를 관리 번거로움을 해결하기 위해 만든 자바 스프링 스케줄러 서버 |
-| [codesoom-github-manage-bot](https://github.com/daadaadaah/codesoom-github-manage-bot) | 2022-08 ~ 2022-08 | (Typescript) 매주 과제 PR을 수동으로 Merge하는 번거로움을 해결하기 위해 만든 PR 일괄 Merge Discord Bot |
-| [Git Commit Pocket](https://github.com/daadaadaah/daadaadaah/blob/master/git_commit_pocket.md) | 2021-07 ~ 2021-07 | (Typescript) 평소 git commit 복붙해야하는 불편함을 해결하기 위해 만든 cli npm 모듈 |
+| [codesoom-github-manage-bot](https://github.com/daadaadaah/codesoom-github-manage-bot) | 2022-08 ~ 2022-08 | (Javascript) 매주 과제 PR을 수동으로 Merge하는 번거로움을 해결하기 위해 만든 PR 일괄 Merge Discord Bot |
+| [Git Commit Pocket](https://github.com/daadaadaah/daadaadaah/blob/master/git_commit_pocket.md) | 2021-07 ~ 2021-07 | (Javascript) 평소 git commit 복붙해야하는 불편함을 해결하기 위해 만든 cli npm 모듈 |
 | [Junior-dev-kit](https://github.com/daadaadaah/daadaadaah/blob/master/junior_dev_kit.md) | 2021-01 ~ 2021-01 | (Typescript) 코딩 테스트 연습시 해당 사이트를 들어가야 하는 불편함을 해결하기 위해 만든 VSCode Extension |
 | [k-translator](https://github.com/daadaadaah/daadaadaah/blob/master/k_translator.md) | 2020-12 ~ 2020-12 | (Typescript) 변수명, git commit 메시지 작성시 브라우저을 열어야 하는 번거로움을 해결하기 위해 만든 VSCode Extension |
 
