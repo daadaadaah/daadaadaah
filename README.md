@@ -33,6 +33,7 @@
 - [java](https://github.com/daadaadaah/my-java), [spring](https://github.com/daadaadaah/my-spring), [jpa](https://github.com/daadaadaah/my-jpa), [db](https://github.com/daadaadaah/my-db), [ddd](https://github.com/daadaadaah/my-ddd)
 
 ## 🔨 Skills
+- [language](https://github.com/daadaadaah/my-language)
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&flat&logo=Spring&logoColor=white)
